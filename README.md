@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Allex Niza! 👋
 
-<!--
-**allexxniza/allexxniza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou acadêmico do **8º período de Sistemas de Informação no IFNMG** (Instituto Federal do Norte de Minas Gerais). Sou apaixonado por tecnologia, desenvolvimento de software e criação de jogos, sempre buscando transformar ideias em linhas de código eficientes e soluções reais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais trabalho e estudo no meu dia a dia:
+
+### **Linguagens & Web**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### **Banco de Dados**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Desenvolvimento de Jogos**
+![Game Maker](https://img.shields.io/badge/Game_Maker-🔥-red?style=for-the-badge)
+
+---
+
+## 🔭 Projetos e Foco Atual
+- 🎓 Focado na reta final da graduação em Sistemas de Informação no IFNMG.
+- 💻 Desenvolvendo aplicações robustas utilizando ecossistemas Javascript/Typescript e Java.
+- 🕹️ Criando experiências e mecânicas de jogos utilizando Game Maker.
+
+---
+
+## 📬 Vamos nos conectar?
+* **LinkedIn:** https://www.linkedin.com/in/allex-niza-55008a32b/
+* **E-mail:** allexxniza@gmail.com
