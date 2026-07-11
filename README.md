@@ -1,6 +1,6 @@
 # Olá, eu sou o Allex Niza! 👋
 
-Sou acadêmico do **8º período de Sistemas de Informação no IFNMG** (Instituto Federal do Norte de Minas Gerais). Sou apaixonado por tecnologia, desenvolvimento de software e criação de jogos, sempre buscando transformar ideias em linhas de código eficientes e soluções reais.
+Sou acadêmico do **8º período de Sistemas de Informação no IFNMG**. Sou apaixonado por tecnologia, desenvolvimento de software e criação de jogos, sempre buscando transformar ideias em linhas de código eficientes e soluções reais.
 
 ---
 
@@ -22,6 +22,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo no meu dia a 
 ---
 
 
-## 📬 Vamos nos conectar?
+## 📬 Formas de contato?
 * **LinkedIn:** https://www.linkedin.com/in/allex-niza-55008a32b/
 * **E-mail:** allexxniza@gmail.com
